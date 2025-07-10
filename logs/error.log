@@ -1,0 +1,86 @@
+2025-07-02 18:07:38 [error] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\controller\controller.js:15:16) - {
+  "status": 500,
+  "success": false,
+  "message": "Internal Server error",
+  "error": "Invalid status code: undefined. Status code must be an integer."
+}
+2025-07-02 18:11:27 [error] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\controller\controller.js:15:16) - {
+  "status": 500,
+  "success": false,
+  "message": "Internal Server error",
+  "error": "Invalid status code: undefined. Status code must be an integer."
+}
+2025-07-02 18:13:42 [error] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\controller\controller.js:15:16) - {
+  "status": 500,
+  "success": false,
+  "message": "Internal Server error",
+  "error": "Invalid status code: undefined. Status code must be an integer."
+}
+2025-07-03 11:31:41 [error] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:94:16) - {
+  "status": 400,
+  "success": false,
+  "message": "OTP must be exactly 6 digits."
+}
+2025-07-03 11:38:49 [error] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:110:24) - {
+  "status": 400,
+  "success": false,
+  "message": "OTP verification failed",
+  "error": "Invalid parameter `To`: 923044493350"
+}
+2025-07-03 11:40:32 [error] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:110:24) - {
+  "status": 400,
+  "success": false,
+  "message": "OTP verification failed",
+  "error": "The requested resource /v2/Services/VA750113b303a5f6f5fbca6e7d75482787/VerificationCheck was not found"
+}
+2025-07-03 11:43:14 [error] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:110:24) - {
+  "status": 400,
+  "success": false,
+  "message": "OTP verification failed",
+  "error": "The requested resource /v2/Services/VA750113b303a5f6f5fbca6e7d75482787/VerificationCheck was not found"
+}
+2025-07-03 11:43:42 [error] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:110:24) - {
+  "status": 400,
+  "success": false,
+  "message": "OTP verification failed",
+  "error": "The requested resource /v2/Services/VA750113b303a5f6f5fbca6e7d75482787/VerificationCheck was not found"
+}
+2025-07-03 11:48:43 [error] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:110:24) - {
+  "status": 400,
+  "success": false,
+  "message": "OTP verification failed",
+  "error": "The requested resource /v2/Services/VA750113b303a5f6f5fbca6e7d75482787/VerificationCheck was not found"
+}
+2025-07-03 11:50:57 [error] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:25:24) - {
+  "status": 500,
+  "success": false,
+  "message": "Failed to send OTP",
+  "error": "Invalid parameter `To`: 923044493350"
+}
+2025-07-03 11:52:43 [error] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:110:24) - {
+  "status": 400,
+  "success": false,
+  "message": "OTP verification failed",
+  "error": "The requested resource /v2/Services/VAf9296cca8ea94d4351d78beae5fc2faa/VerificationCheck was not found"
+}
+2025-07-03 12:02:04 [error] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:113:24) - {
+  "status": 400,
+  "success": false,
+  "message": "Failed to verify OTP",
+  "error": "The requested resource /v2/Services/VAf9296cca8ea94d4351d78beae5fc2faa/VerificationCheck was not found"
+}
+2025-07-07 12:55:55 [error] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:278:16) - {
+  "status": 500,
+  "success": false,
+  "message": "Error in updating the profile",
+  "error": "syntax error at or near \")\""
+}
+2025-07-07 13:04:05 [error] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:287:16) - {
+  "status": 500,
+  "success": false,
+  "message": "Error in updating the profile",
+  "error": "syntax error at or near \"=\""
+}
+2025-07-08 17:07:22 [error] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:46:16) - ❌ Error while starting app: syntax error at or near ")"
+2025-07-08 17:08:32 [error] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:46:16) - ❌ Error while starting app: syntax error at or near ")"
+2025-07-08 17:08:34 [error] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:46:16) - ❌ Error while starting app: syntax error at or near ")"

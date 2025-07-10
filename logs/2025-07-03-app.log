@@ -1,0 +1,636 @@
+2025-07-03 10:13:08 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:39:12) - Connected to database
+2025-07-03 10:13:08 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:41:20) - 🚀 App is running at: http://localhost:3002
+2025-07-03 10:33:28 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:39:12) - Connected to database
+2025-07-03 10:33:28 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:41:20) - 🚀 App is running at: http://localhost:3002
+2025-07-03 10:44:41 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:56:16) - {
+  "status": 200,
+  "success": true,
+  "message": "OTP sent successfully",
+  "data": {
+    "phone": "923044493350"
+  }
+}
+2025-07-03 10:44:41 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/send_otp",
+  "params": {},
+  "query": {},
+  "body": {
+    "country_code": "92",
+    "phone": "3044493350"
+  },
+  "statusCode": 200,
+  "duration": "9.27ms"
+}
+2025-07-03 10:47:39 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:39:12) - Connected to database
+2025-07-03 10:47:39 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:41:20) - 🚀 App is running at: http://localhost:3002
+2025-07-03 10:48:10 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:39:12) - Connected to database
+2025-07-03 10:48:10 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:41:20) - 🚀 App is running at: http://localhost:3002
+2025-07-03 10:56:34 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:39:12) - Connected to database
+2025-07-03 10:56:34 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:41:20) - 🚀 App is running at: http://localhost:3002
+2025-07-03 11:28:24 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:39:12) - Connected to database
+2025-07-03 11:28:24 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:41:20) - 🚀 App is running at: http://localhost:3002
+2025-07-03 11:29:06 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:195:16) - {
+  "status": 201,
+  "success": true,
+  "message": "User created successfully (dev mode)",
+  "phone": "923044493350",
+  "user": {
+    "id": 1,
+    "created_at": "2025-07-03T06:29:06.038Z",
+    "updated_at": "2025-07-03T06:29:06.038Z",
+    "country_code": "92",
+    "phone": "3044493350",
+    "name": null,
+    "profile_photo": null,
+    "password": null,
+    "is_profile_completed": false
+  }
+}
+2025-07-03 11:29:06 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/verify_otp",
+  "params": {},
+  "query": {},
+  "body": {
+    "country_code": "92",
+    "phone": "3044493350",
+    "otp": "112233"
+  },
+  "statusCode": 201,
+  "duration": "43.08ms"
+}
+2025-07-03 11:29:30 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:175:20) - {
+  "status": 200,
+  "success": true,
+  "message": "Logged in successfully (dev mode)",
+  "phone": "923044493350"
+}
+2025-07-03 11:29:30 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/verify_otp",
+  "params": {},
+  "query": {},
+  "body": {
+    "country_code": "92",
+    "phone": "3044493350",
+    "otp": "112233"
+  },
+  "statusCode": 200,
+  "duration": "2.91ms"
+}
+2025-07-03 11:31:41 [error] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:94:16) - {
+  "status": 400,
+  "success": false,
+  "message": "OTP must be exactly 6 digits."
+}
+2025-07-03 11:31:41 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/verify_otp",
+  "params": {},
+  "query": {},
+  "body": {
+    "country_code": "92",
+    "phone": "3044493350",
+    "otp": "11223"
+  },
+  "statusCode": 400,
+  "duration": "1.89ms"
+}
+2025-07-03 11:31:55 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:175:20) - {
+  "status": 200,
+  "success": true,
+  "message": "Logged in successfully (dev mode)",
+  "phone": "923044493350"
+}
+2025-07-03 11:31:55 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/verify_otp",
+  "params": {},
+  "query": {},
+  "body": {
+    "country_code": "92",
+    "phone": "3044493350",
+    "otp": "112233"
+  },
+  "statusCode": 200,
+  "duration": "2.76ms"
+}
+2025-07-03 11:32:10 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:39:12) - Connected to database
+2025-07-03 11:32:10 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:41:20) - 🚀 App is running at: http://localhost:3002
+2025-07-03 11:32:38 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:202:16) - {
+  "status": 201,
+  "success": true,
+  "message": "User created successfully (dev mode)",
+  "phone": "923044493350",
+  "user": {
+    "id": 2,
+    "created_at": "2025-07-03T06:32:38.938Z",
+    "updated_at": "2025-07-03T06:32:38.938Z",
+    "country_code": "92",
+    "phone": "3044493350",
+    "name": null,
+    "profile_photo": null,
+    "password": null,
+    "is_profile_completed": false
+  }
+}
+2025-07-03 11:32:38 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/verify_otp",
+  "params": {},
+  "query": {},
+  "body": {
+    "country_code": "92",
+    "phone": "3044493350",
+    "otp": "112233"
+  },
+  "statusCode": 201,
+  "duration": "48.85ms"
+}
+2025-07-03 11:32:42 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:179:20) - {
+  "status": 200,
+  "success": true,
+  "message": "Logged in successfully (dev mode)",
+  "data": {
+    "total": 1,
+    "user": {
+      "id": 2,
+      "created_at": "2025-07-03T06:32:38.938Z",
+      "updated_at": "2025-07-03T06:32:38.938Z",
+      "country_code": "92",
+      "phone": "3044493350",
+      "name": null,
+      "profile_photo": null,
+      "password": null,
+      "is_profile_completed": false
+    }
+  }
+}
+2025-07-03 11:32:42 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/verify_otp",
+  "params": {},
+  "query": {},
+  "body": {
+    "country_code": "92",
+    "phone": "3044493350",
+    "otp": "112233"
+  },
+  "statusCode": 200,
+  "duration": "3.09ms"
+}
+2025-07-03 11:35:16 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:39:12) - Connected to database
+2025-07-03 11:35:16 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:41:20) - 🚀 App is running at: http://localhost:3002
+2025-07-03 11:35:36 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:202:16) - {
+  "status": 201,
+  "success": true,
+  "message": "User created successfully (dev mode)",
+  "data": {
+    "total": 1,
+    "user": {
+      "id": 3,
+      "created_at": "2025-07-03T06:35:36.529Z",
+      "updated_at": "2025-07-03T06:35:36.529Z",
+      "country_code": "92",
+      "phone": "3044493350",
+      "name": null,
+      "profile_photo": null,
+      "password": null,
+      "is_profile_completed": false
+    }
+  }
+}
+2025-07-03 11:35:36 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/verify_otp",
+  "params": {},
+  "query": {},
+  "body": {
+    "country_code": "92",
+    "phone": "3044493350",
+    "otp": "112233"
+  },
+  "statusCode": 201,
+  "duration": "40.35ms"
+}
+2025-07-03 11:37:58 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:39:12) - Connected to database
+2025-07-03 11:37:58 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:41:20) - 🚀 App is running at: http://localhost:3002
+2025-07-03 11:38:37 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:39:12) - Connected to database
+2025-07-03 11:38:37 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:41:20) - 🚀 App is running at: http://localhost:3002
+2025-07-03 11:38:49 [error] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:110:24) - {
+  "status": 400,
+  "success": false,
+  "message": "OTP verification failed",
+  "error": "Invalid parameter `To`: 923044493350"
+}
+2025-07-03 11:38:49 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/verify_otp",
+  "params": {},
+  "query": {},
+  "body": {
+    "country_code": "92",
+    "phone": "3044493350",
+    "otp": "112233"
+  },
+  "statusCode": 400,
+  "duration": "1893.80ms"
+}
+2025-07-03 11:40:27 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:39:12) - Connected to database
+2025-07-03 11:40:27 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:41:20) - 🚀 App is running at: http://localhost:3002
+2025-07-03 11:40:32 [error] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:110:24) - {
+  "status": 400,
+  "success": false,
+  "message": "OTP verification failed",
+  "error": "The requested resource /v2/Services/VA750113b303a5f6f5fbca6e7d75482787/VerificationCheck was not found"
+}
+2025-07-03 11:40:32 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/verify_otp",
+  "params": {},
+  "query": {},
+  "body": {
+    "country_code": "92",
+    "phone": "3044493350",
+    "otp": "112233"
+  },
+  "statusCode": 400,
+  "duration": "1545.31ms"
+}
+2025-07-03 11:43:09 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:39:12) - Connected to database
+2025-07-03 11:43:09 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:41:20) - 🚀 App is running at: http://localhost:3002
+2025-07-03 11:43:14 [error] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:110:24) - {
+  "status": 400,
+  "success": false,
+  "message": "OTP verification failed",
+  "error": "The requested resource /v2/Services/VA750113b303a5f6f5fbca6e7d75482787/VerificationCheck was not found"
+}
+2025-07-03 11:43:14 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/verify_otp",
+  "params": {},
+  "query": {},
+  "body": {
+    "country_code": "92",
+    "phone": "3044493350",
+    "otp": "112233"
+  },
+  "statusCode": 400,
+  "duration": "1951.90ms"
+}
+2025-07-03 11:43:39 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:39:12) - Connected to database
+2025-07-03 11:43:39 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:41:20) - 🚀 App is running at: http://localhost:3002
+2025-07-03 11:43:42 [error] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:110:24) - {
+  "status": 400,
+  "success": false,
+  "message": "OTP verification failed",
+  "error": "The requested resource /v2/Services/VA750113b303a5f6f5fbca6e7d75482787/VerificationCheck was not found"
+}
+2025-07-03 11:43:42 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/verify_otp",
+  "params": {},
+  "query": {},
+  "body": {
+    "country_code": "92",
+    "phone": "3044493350",
+    "otp": "112233"
+  },
+  "statusCode": 400,
+  "duration": "906.77ms"
+}
+2025-07-03 11:48:43 [error] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:110:24) - {
+  "status": 400,
+  "success": false,
+  "message": "OTP verification failed",
+  "error": "The requested resource /v2/Services/VA750113b303a5f6f5fbca6e7d75482787/VerificationCheck was not found"
+}
+2025-07-03 11:48:43 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/verify_otp",
+  "params": {},
+  "query": {},
+  "body": {
+    "country_code": "92",
+    "phone": "3044493350",
+    "otp": "112233"
+  },
+  "statusCode": 400,
+  "duration": "1398.97ms"
+}
+2025-07-03 11:50:57 [error] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:25:24) - {
+  "status": 500,
+  "success": false,
+  "message": "Failed to send OTP",
+  "error": "Invalid parameter `To`: 923044493350"
+}
+2025-07-03 11:50:57 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/send_otp",
+  "params": {},
+  "query": {},
+  "body": {
+    "country_code": "92",
+    "phone": "3044493350"
+  },
+  "statusCode": 500,
+  "duration": "1383.70ms"
+}
+2025-07-03 11:51:20 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:39:12) - Connected to database
+2025-07-03 11:51:20 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:41:20) - 🚀 App is running at: http://localhost:3002
+2025-07-03 11:51:26 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:40:20) - {
+  "status": 200,
+  "success": true,
+  "message": "OTP sent successfully",
+  "phone": "+923044493350",
+  "status_detail": "pending"
+}
+2025-07-03 11:51:26 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/send_otp",
+  "params": {},
+  "query": {},
+  "body": {
+    "country_code": "92",
+    "phone": "3044493350"
+  },
+  "statusCode": 200,
+  "duration": "1302.67ms"
+}
+2025-07-03 11:51:48 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:160:20) - {
+  "status": 201,
+  "success": true,
+  "message": "User created successfully (dev mode)",
+  "data": {
+    "total": 1,
+    "user": {
+      "id": 4,
+      "created_at": "2025-07-03T06:51:48.612Z",
+      "updated_at": "2025-07-03T06:51:48.612Z",
+      "country_code": "92",
+      "phone": "3044493350",
+      "name": null,
+      "profile_photo": null,
+      "password": null,
+      "is_profile_completed": false
+    }
+  }
+}
+2025-07-03 11:51:48 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/verify_otp",
+  "params": {},
+  "query": {},
+  "body": {
+    "country_code": "92",
+    "phone": "3044493350",
+    "otp": "326383"
+  },
+  "statusCode": 201,
+  "duration": "295.26ms"
+}
+2025-07-03 11:52:36 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:39:12) - Connected to database
+2025-07-03 11:52:36 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:41:20) - 🚀 App is running at: http://localhost:3002
+2025-07-03 11:52:43 [error] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:110:24) - {
+  "status": 400,
+  "success": false,
+  "message": "OTP verification failed",
+  "error": "The requested resource /v2/Services/VAf9296cca8ea94d4351d78beae5fc2faa/VerificationCheck was not found"
+}
+2025-07-03 11:52:43 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/verify_otp",
+  "params": {},
+  "query": {},
+  "body": {
+    "country_code": "92",
+    "phone": "3044493350",
+    "otp": "326383"
+  },
+  "statusCode": 400,
+  "duration": "1253.99ms"
+}
+2025-07-03 11:53:20 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:39:12) - Connected to database
+2025-07-03 11:53:20 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:41:20) - 🚀 App is running at: http://localhost:3002
+2025-07-03 11:54:54 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:40:20) - {
+  "status": 200,
+  "success": true,
+  "message": "OTP sent successfully",
+  "phone": "+923044493350",
+  "status_detail": "pending"
+}
+2025-07-03 11:54:54 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/send_otp",
+  "params": {},
+  "query": {},
+  "body": {
+    "country_code": "92",
+    "phone": "3044493350"
+  },
+  "statusCode": 200,
+  "duration": "1967.99ms"
+}
+2025-07-03 11:55:15 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:160:20) - {
+  "status": 201,
+  "success": true,
+  "message": "User created successfully",
+  "data": {
+    "total": 1,
+    "user": {
+      "id": 5,
+      "created_at": "2025-07-03T06:55:15.738Z",
+      "updated_at": "2025-07-03T06:55:15.738Z",
+      "country_code": "92",
+      "phone": "3044493350",
+      "name": null,
+      "profile_photo": null,
+      "password": null,
+      "is_profile_completed": false
+    }
+  }
+}
+2025-07-03 11:55:15 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/verify_otp",
+  "params": {},
+  "query": {},
+  "body": {
+    "country_code": "92",
+    "phone": "3044493350",
+    "otp": "941496"
+  },
+  "statusCode": 201,
+  "duration": "318.53ms"
+}
+2025-07-03 12:00:03 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:39:12) - Connected to database
+2025-07-03 12:00:03 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:41:20) - 🚀 App is running at: http://localhost:3002
+2025-07-03 12:01:36 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:39:12) - Connected to database
+2025-07-03 12:01:36 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:41:20) - 🚀 App is running at: http://localhost:3002
+2025-07-03 12:02:04 [error] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:113:24) - {
+  "status": 400,
+  "success": false,
+  "message": "Failed to verify OTP",
+  "error": "The requested resource /v2/Services/VAf9296cca8ea94d4351d78beae5fc2faa/VerificationCheck was not found"
+}
+2025-07-03 12:02:04 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/verify_otp",
+  "params": {},
+  "query": {},
+  "body": {
+    "country_code": "92",
+    "phone": "3044493350",
+    "otp": "941496"
+  },
+  "statusCode": 400,
+  "duration": "1576.06ms"
+}
+2025-07-03 12:10:46 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:39:12) - Connected to database
+2025-07-03 12:10:46 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:41:20) - 🚀 App is running at: http://localhost:3002
+2025-07-03 12:10:53 [warn] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:111:24) - {
+  "status": 401,
+  "success": false,
+  "message": "OTP is incorrect or expired"
+}
+2025-07-03 12:10:53 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/verify_otp",
+  "params": {},
+  "query": {},
+  "body": {
+    "country_code": "92",
+    "phone": "3044493350",
+    "otp": "941496"
+  },
+  "statusCode": 401,
+  "duration": "2093.29ms"
+}
+2025-07-03 12:11:23 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:39:12) - Connected to database
+2025-07-03 12:11:23 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:41:20) - 🚀 App is running at: http://localhost:3002
+2025-07-03 12:11:33 [warn] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:111:24) - {
+  "status": 401,
+  "success": false,
+  "message": "OTP is incorrect or expired"
+}
+2025-07-03 12:11:33 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/verify_otp",
+  "params": {},
+  "query": {},
+  "body": {
+    "country_code": "92",
+    "phone": "3044493350",
+    "otp": "941496"
+  },
+  "statusCode": 401,
+  "duration": "1308.43ms"
+}
+2025-07-03 15:17:40 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:40:20) - {
+  "status": 200,
+  "success": true,
+  "message": "OTP sent successfully",
+  "phone": "+923044493350",
+  "status_detail": "pending"
+}
+2025-07-03 15:17:40 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/send_otp",
+  "params": {},
+  "query": {},
+  "body": {
+    "country_code": "92",
+    "phone": "3044493350"
+  },
+  "statusCode": 200,
+  "duration": "2159.67ms"
+}
+2025-07-03 15:18:36 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:39:12) - Connected to database
+2025-07-03 15:18:36 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:41:20) - 🚀 App is running at: http://localhost:3002
+2025-07-03 15:19:10 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:39:12) - Connected to database
+2025-07-03 15:19:10 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:41:20) - 🚀 App is running at: http://localhost:3002
+2025-07-03 15:19:12 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:173:20) - {
+  "status": 200,
+  "success": true,
+  "message": "Logged in successfully (dev mode)",
+  "data": {
+    "total": 1,
+    "user": {
+      "id": 5,
+      "created_at": "2025-07-03T06:55:15.738Z",
+      "updated_at": "2025-07-03T06:55:15.738Z",
+      "country_code": "92",
+      "phone": "3044493350",
+      "name": null,
+      "profile_photo": null,
+      "password": null,
+      "is_profile_completed": false
+    }
+  }
+}
+2025-07-03 15:19:12 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/verify_otp",
+  "params": {},
+  "query": {},
+  "body": {
+    "country_code": "92",
+    "phone": "3044493350",
+    "otp": "941496"
+  },
+  "statusCode": 200,
+  "duration": "9.25ms"
+}
+2025-07-03 15:19:21 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:57:16) - {
+  "status": 200,
+  "success": true,
+  "message": "OTP sent successfully (dev mode)",
+  "data": {
+    "phone": "+923044493350"
+  }
+}
+2025-07-03 15:19:21 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/send_otp",
+  "params": {},
+  "query": {},
+  "body": {
+    "country_code": "92",
+    "phone": "3044493350"
+  },
+  "statusCode": 200,
+  "duration": "1.73ms"
+}
+2025-07-03 15:31:31 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:173:20) - {
+  "status": 200,
+  "success": true,
+  "message": "Logged in successfully (dev mode)",
+  "data": {
+    "total": 1,
+    "user": {
+      "id": 5,
+      "created_at": "2025-07-03T06:55:15.738Z",
+      "updated_at": "2025-07-03T06:55:15.738Z",
+      "country_code": "92",
+      "phone": "3044493350",
+      "name": null,
+      "profile_photo": null,
+      "password": null,
+      "is_profile_completed": false
+    }
+  }
+}
+2025-07-03 15:31:31 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/verify_otp",
+  "params": {},
+  "query": {},
+  "body": {
+    "country_code": "92",
+    "phone": "3044493350",
+    "otp": "941496"
+  },
+  "statusCode": 200,
+  "duration": "5.54ms"
+}

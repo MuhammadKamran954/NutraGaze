@@ -1,0 +1,84 @@
+2025-07-02 18:07:36 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:39:12) - Connected to database
+2025-07-02 18:07:36 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:41:20) - 🚀 App is running at: http://localhost:3002
+2025-07-02 18:07:38 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:56:16) - {
+  "status": 200,
+  "success": true,
+  "message": "OTP sent successfully",
+  "phone": "+923044493350"
+}
+2025-07-02 18:07:38 [error] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\controller\controller.js:15:16) - {
+  "status": 500,
+  "success": false,
+  "message": "Internal Server error",
+  "error": "Invalid status code: undefined. Status code must be an integer."
+}
+2025-07-02 18:11:03 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:39:12) - Connected to database
+2025-07-02 18:11:03 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:41:20) - 🚀 App is running at: http://localhost:3002
+2025-07-02 18:11:27 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:56:16) - {
+  "status": 200,
+  "success": true,
+  "message": "OTP sent successfully",
+  "phone": "923044493350"
+}
+2025-07-02 18:11:27 [error] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\controller\controller.js:15:16) - {
+  "status": 500,
+  "success": false,
+  "message": "Internal Server error",
+  "error": "Invalid status code: undefined. Status code must be an integer."
+}
+2025-07-02 18:13:38 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:39:12) - Connected to database
+2025-07-02 18:13:38 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:41:20) - 🚀 App is running at: http://localhost:3002
+2025-07-02 18:13:42 [error] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\controller\controller.js:15:16) - {
+  "status": 500,
+  "success": false,
+  "message": "Internal Server error",
+  "error": "Invalid status code: undefined. Status code must be an integer."
+}
+2025-07-02 18:13:42 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:56:16) - {
+  "status": 200,
+  "success": true,
+  "message": "OTP sent successfully",
+  "phone": "923044493350"
+}
+2025-07-02 18:14:27 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:39:12) - Connected to database
+2025-07-02 18:14:27 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:41:20) - 🚀 App is running at: http://localhost:3002
+2025-07-02 18:14:30 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:56:16) - {
+  "status": 200,
+  "success": true,
+  "message": "OTP sent successfully",
+  "phone": "923044493350"
+}
+2025-07-02 18:14:30 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/send_otp",
+  "params": {},
+  "query": {},
+  "body": {
+    "country_code": "92",
+    "phone": "3044493350"
+  },
+  "statusCode": 200,
+  "duration": "5.20ms"
+}
+2025-07-02 18:17:29 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:39:12) - Connected to database
+2025-07-02 18:17:29 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:41:20) - 🚀 App is running at: http://localhost:3002
+2025-07-02 18:17:32 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:56:16) - {
+  "status": 200,
+  "success": true,
+  "message": "OTP sent successfully",
+  "data": {
+    "phone": "923044493350"
+  }
+}
+2025-07-02 18:17:32 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/send_otp",
+  "params": {},
+  "query": {},
+  "body": {
+    "country_code": "92",
+    "phone": "3044493350"
+  },
+  "statusCode": 200,
+  "duration": "4.75ms"
+}

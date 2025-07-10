@@ -1,0 +1,365 @@
+2025-07-09 10:09:07 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:43:12) - Connected to database
+2025-07-09 10:09:07 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:45:20) - 🚀 App is running at: http://localhost:3002
+2025-07-09 10:13:20 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\common\jwt\validate.js:19:16) - 'JWT Error:' Invalid token
+2025-07-09 10:13:20 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:22:16) - {
+  "method": "POST",
+  "url": "/analyze_food",
+  "params": {},
+  "query": {},
+  "statusCode": 401,
+  "duration": "21.05ms"
+}
+2025-07-09 10:13:27 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:183:20) - {
+  "status": 200,
+  "success": true,
+  "message": "Logged in successfully (dev mode)",
+  "data": {
+    "total": 1,
+    "user": {
+      "id": 5,
+      "created_at": "2025-07-03T06:55:15.738Z",
+      "updated_at": "2025-07-03T06:55:15.738Z",
+      "country_code": "92",
+      "phone": "3044493350",
+      "name": "Muhammad Kamran",
+      "profile_photo": "1751979292064_674743783.png",
+      "password": null,
+      "is_profile_completed": true
+    },
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NSwiY291bnRyeV9jb2RlIjoiOTIiLCJwaG9uZSI6IjMwNDQ0OTMzNTAiLCJpYXQiOjE3NTIwMzgwMDcsImV4cCI6MTc1MjA0ODgwN30.lD2O9vsnqb7w720f-UWBioaUn7pZ-T8MMBjrIrNo1fE"
+  }
+}
+2025-07-09 10:13:27 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:22:16) - {
+  "method": "POST",
+  "url": "/verify_otp",
+  "params": {},
+  "query": {},
+  "body": {
+    "country_code": "92",
+    "phone": "3044493350",
+    "otp": "941496"
+  },
+  "statusCode": 200,
+  "duration": "16.90ms"
+}
+2025-07-09 10:13:37 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:22:16) - {
+  "method": "POST",
+  "url": "/analyze_food",
+  "params": {},
+  "query": {},
+  "statusCode": 400,
+  "duration": "3.26ms"
+}
+2025-07-09 10:20:22 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:43:12) - Connected to database
+2025-07-09 10:20:22 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:45:20) - 🚀 App is running at: http://localhost:3002
+2025-07-09 10:20:48 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:22:16) - {
+  "method": "POST",
+  "url": "/analyze_food",
+  "params": {},
+  "query": {},
+  "statusCode": 400,
+  "duration": "8.69ms"
+}
+2025-07-09 10:28:17 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:43:12) - Connected to database
+2025-07-09 10:28:17 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:45:20) - 🚀 App is running at: http://localhost:3002
+2025-07-09 10:28:45 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:22:16) - {
+  "method": "POST",
+  "url": "/analyze_food",
+  "params": {},
+  "query": {},
+  "statusCode": 400,
+  "duration": "7.69ms"
+}
+2025-07-09 10:29:01 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:43:12) - Connected to database
+2025-07-09 10:29:01 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:45:20) - 🚀 App is running at: http://localhost:3002
+2025-07-09 10:29:04 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:22:16) - {
+  "method": "POST",
+  "url": "/analyze_food",
+  "params": {},
+  "query": {},
+  "statusCode": 400,
+  "duration": "10.22ms"
+}
+2025-07-09 10:36:26 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:43:12) - Connected to database
+2025-07-09 10:36:26 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:45:20) - 🚀 App is running at: http://localhost:3002
+2025-07-09 10:36:34 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:22:16) - {
+  "method": "POST",
+  "url": "/analyze_food",
+  "params": {},
+  "query": {},
+  "statusCode": 400,
+  "duration": "10.81ms"
+}
+2025-07-09 10:41:18 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:43:12) - Connected to database
+2025-07-09 10:41:18 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:45:20) - 🚀 App is running at: http://localhost:3002
+2025-07-09 10:41:21 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:22:16) - {
+  "method": "POST",
+  "url": "/analyze_food",
+  "params": {},
+  "query": {},
+  "statusCode": 400,
+  "duration": "13.14ms"
+}
+2025-07-09 11:22:23 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:43:12) - Connected to database
+2025-07-09 11:22:23 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:45:20) - 🚀 App is running at: http://localhost:3002
+2025-07-09 11:26:04 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:43:12) - Connected to database
+2025-07-09 11:26:04 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:45:20) - 🚀 App is running at: http://localhost:3002
+2025-07-09 11:26:10 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:22:16) - {
+  "method": "POST",
+  "url": "/analyze_food",
+  "params": {},
+  "query": {},
+  "statusCode": 400,
+  "duration": "15.23ms"
+}
+2025-07-09 12:16:46 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:43:12) - Connected to database
+2025-07-09 12:16:46 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:45:20) - 🚀 App is running at: http://localhost:3002
+2025-07-09 12:16:50 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:22:16) - {
+  "method": "POST",
+  "url": "/analyze_food",
+  "params": {},
+  "query": {},
+  "statusCode": 400,
+  "duration": "14.00ms"
+}
+2025-07-09 12:17:53 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:43:12) - Connected to database
+2025-07-09 12:17:53 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:45:20) - 🚀 App is running at: http://localhost:3002
+2025-07-09 12:17:57 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:22:16) - {
+  "method": "POST",
+  "url": "/analyze_food",
+  "params": {},
+  "query": {},
+  "statusCode": 404,
+  "duration": "33.31ms"
+}
+2025-07-09 12:18:43 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:43:12) - Connected to database
+2025-07-09 12:18:43 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:45:20) - 🚀 App is running at: http://localhost:3002
+2025-07-09 12:18:45 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:22:16) - {
+  "method": "POST",
+  "url": "/analyze_food",
+  "params": {},
+  "query": {},
+  "statusCode": 400,
+  "duration": "11.31ms"
+}
+2025-07-09 12:19:56 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:43:12) - Connected to database
+2025-07-09 12:19:56 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:45:20) - 🚀 App is running at: http://localhost:3002
+2025-07-09 12:19:59 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\analyze\service\service.js:45:16) - {
+  "status": 500,
+  "success": false,
+  "message": "Error while Analyzing the Food Image."
+}
+2025-07-09 12:19:59 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\analyze\controller\controller.js:23:14) - {
+  "status": 500,
+  "success": false,
+  "Message": "Error while Analyzing Food Image"
+}
+2025-07-09 12:20:10 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\analyze\service\service.js:45:16) - {
+  "status": 500,
+  "success": false,
+  "message": "Error while Analyzing the Food Image."
+}
+2025-07-09 12:20:10 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\analyze\controller\controller.js:23:14) - {
+  "status": 500,
+  "success": false,
+  "Message": "Error while Analyzing Food Image"
+}
+2025-07-09 12:20:21 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:43:12) - Connected to database
+2025-07-09 12:20:21 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:45:20) - 🚀 App is running at: http://localhost:3002
+2025-07-09 12:20:24 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\analyze\service\service.js:47:16) - {
+  "status": 500,
+  "success": false,
+  "message": "Error while Analyzing the Food Image."
+}
+2025-07-09 12:20:24 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\analyze\controller\controller.js:23:14) - {
+  "status": 500,
+  "success": false,
+  "Message": "Error while Analyzing Food Image"
+}
+2025-07-09 12:23:29 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:43:12) - Connected to database
+2025-07-09 12:23:29 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:45:20) - 🚀 App is running at: http://localhost:3002
+2025-07-09 12:23:35 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\analyze\service\service.js:52:16) - {
+  "status": 500,
+  "success": false,
+  "message": "Error while Analyzing the Food Image."
+}
+2025-07-09 12:23:35 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\analyze\controller\controller.js:23:14) - {
+  "status": 500,
+  "success": false,
+  "Message": "Error while Analyzing Food Image"
+}
+2025-07-09 12:24:34 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:43:12) - Connected to database
+2025-07-09 12:24:34 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:45:20) - 🚀 App is running at: http://localhost:3002
+2025-07-09 12:24:38 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\analyze\service\service.js:52:16) - {
+  "status": 500,
+  "success": false,
+  "message": "Error while Analyzing the Food Image."
+}
+2025-07-09 12:24:38 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\analyze\controller\controller.js:23:14) - {
+  "status": 500,
+  "success": false,
+  "Message": "Error while Analyzing Food Image"
+}
+2025-07-09 12:25:56 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:43:12) - Connected to database
+2025-07-09 12:25:56 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:45:20) - 🚀 App is running at: http://localhost:3002
+2025-07-09 12:25:59 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\analyze\service\service.js:52:16) - {
+  "status": 500,
+  "success": false,
+  "message": "Error while Analyzing the Food Image."
+}
+2025-07-09 12:25:59 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\analyze\controller\controller.js:23:14) - {
+  "status": 500,
+  "success": false,
+  "Message": "Error while Analyzing Food Image"
+}
+2025-07-09 12:26:48 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:43:12) - Connected to database
+2025-07-09 12:26:48 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:45:20) - 🚀 App is running at: http://localhost:3002
+2025-07-09 12:26:51 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\analyze\service\service.js:52:16) - {
+  "status": 500,
+  "success": false,
+  "message": "Error while Analyzing the Food Image.",
+  "error": "401 Incorrect API key provided: kamran@o*********9334. You can find your API key at https://platform.openai.com/account/api-keys."
+}
+2025-07-09 12:26:51 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\analyze\controller\controller.js:23:14) - {
+  "status": 500,
+  "success": false,
+  "Message": "Error while Analyzing Food Image"
+}
+2025-07-09 12:27:04 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:43:12) - Connected to database
+2025-07-09 12:27:04 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:45:20) - 🚀 App is running at: http://localhost:3002
+2025-07-09 12:27:06 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\analyze\service\service.js:52:16) - {
+  "status": 500,
+  "success": false,
+  "message": "Error while Analyzing the Food Image.",
+  "error": "401 Incorrect API key provided: kamran@o*********9334. You can find your API key at https://platform.openai.com/account/api-keys."
+}
+2025-07-09 12:27:06 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:22:16) - {
+  "method": "POST",
+  "url": "/analyze_food",
+  "params": {},
+  "query": {},
+  "statusCode": 500,
+  "duration": "1429.37ms"
+}
+2025-07-09 12:31:39 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\analyze\service\service.js:52:16) - {
+  "status": 500,
+  "success": false,
+  "message": "Error while Analyzing the Food Image.",
+  "error": "401 Incorrect API key provided: kamran@o*********9334. You can find your API key at https://platform.openai.com/account/api-keys."
+}
+2025-07-09 12:31:39 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:22:16) - {
+  "method": "POST",
+  "url": "/analyze_food",
+  "params": {},
+  "query": {},
+  "statusCode": 500,
+  "duration": "737.75ms"
+}
+2025-07-09 12:31:47 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:43:12) - Connected to database
+2025-07-09 12:31:47 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:45:20) - 🚀 App is running at: http://localhost:3002
+2025-07-09 12:32:14 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:43:12) - Connected to database
+2025-07-09 12:32:14 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:45:20) - 🚀 App is running at: http://localhost:3002
+2025-07-09 12:32:18 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\analyze\service\service.js:52:16) - {
+  "status": 500,
+  "success": false,
+  "message": "Error while Analyzing the Food Image.",
+  "error": "404 The model `chatgpt-4o-latest` does not exist or you do not have access to it."
+}
+2025-07-09 12:32:18 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:22:16) - {
+  "method": "POST",
+  "url": "/analyze_food",
+  "params": {},
+  "query": {},
+  "statusCode": 500,
+  "duration": "1795.75ms"
+}
+2025-07-09 12:33:19 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:43:12) - Connected to database
+2025-07-09 12:33:19 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:45:20) - 🚀 App is running at: http://localhost:3002
+2025-07-09 12:33:26 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\analyze\service\service.js:52:16) - {
+  "status": 500,
+  "success": false,
+  "message": "Error while Analyzing the Food Image.",
+  "error": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors."
+}
+2025-07-09 12:33:26 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:22:16) - {
+  "method": "POST",
+  "url": "/analyze_food",
+  "params": {},
+  "query": {},
+  "statusCode": 500,
+  "duration": "3469.19ms"
+}
+2025-07-09 16:00:34 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:43:12) - Connected to database
+2025-07-09 16:00:34 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:45:20) - 🚀 App is running at: http://localhost:3002
+2025-07-09 16:00:40 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\common\jwt\validate.js:19:16) - 'JWT Error:' Invalid token
+2025-07-09 16:00:40 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:22:16) - {
+  "method": "POST",
+  "url": "/analyze_food",
+  "params": {},
+  "query": {},
+  "statusCode": 401,
+  "duration": "19.37ms"
+}
+2025-07-09 16:00:46 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:183:20) - {
+  "status": 200,
+  "success": true,
+  "message": "Logged in successfully (dev mode)",
+  "data": {
+    "total": 1,
+    "user": {
+      "id": 5,
+      "created_at": "2025-07-03T06:55:15.738Z",
+      "updated_at": "2025-07-03T06:55:15.738Z",
+      "country_code": "92",
+      "phone": "3044493350",
+      "name": "Muhammad Kamran",
+      "profile_photo": "1751979292064_674743783.png",
+      "password": null,
+      "is_profile_completed": true
+    },
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NSwiY291bnRyeV9jb2RlIjoiOTIiLCJwaG9uZSI6IjMwNDQ0OTMzNTAiLCJpYXQiOjE3NTIwNTg4NDYsImV4cCI6MTc1MjA2OTY0Nn0.uQiPMKy7twKJNr9NRhm6s9rJfi8u3TD9Cn_S981tnng"
+  }
+}
+2025-07-09 16:00:46 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:22:16) - {
+  "method": "POST",
+  "url": "/verify_otp",
+  "params": {},
+  "query": {},
+  "body": {
+    "country_code": "92",
+    "phone": "3044493350",
+    "otp": "941496"
+  },
+  "statusCode": 200,
+  "duration": "11.06ms"
+}
+2025-07-09 16:00:54 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\analyze\service\service.js:52:16) - {
+  "status": 500,
+  "success": false,
+  "message": "Error while Analyzing the Food Image.",
+  "error": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors."
+}
+2025-07-09 16:00:54 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:22:16) - {
+  "method": "POST",
+  "url": "/analyze_food",
+  "params": {},
+  "query": {},
+  "statusCode": 500,
+  "duration": "3779.31ms"
+}
+2025-07-09 16:01:47 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:43:12) - Connected to database
+2025-07-09 16:01:47 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:45:20) - 🚀 App is running at: http://localhost:3002
+2025-07-09 16:01:59 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\analyze\service\service.js:52:16) - {
+  "status": 500,
+  "success": false,
+  "message": "Error while Analyzing the Food Image.",
+  "error": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors."
+}
+2025-07-09 16:01:59 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:22:16) - {
+  "method": "POST",
+  "url": "/analyze_food",
+  "params": {},
+  "query": {},
+  "statusCode": 500,
+  "duration": "3834.89ms"
+}

@@ -1,0 +1,399 @@
+2025-07-07 10:05:38 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:39:12) - Connected to database
+2025-07-07 10:05:38 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:41:20) - 🚀 App is running at: http://localhost:3002
+2025-07-07 11:31:26 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:39:12) - Connected to database
+2025-07-07 11:31:26 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:41:20) - 🚀 App is running at: http://localhost:3002
+2025-07-07 11:38:22 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:39:12) - Connected to database
+2025-07-07 11:38:22 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:41:20) - 🚀 App is running at: http://localhost:3002
+2025-07-07 12:40:58 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/update_profile",
+  "params": {},
+  "query": {},
+  "statusCode": 500,
+  "duration": "12.95ms"
+}
+2025-07-07 12:44:32 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:175:20) - {
+  "status": 200,
+  "success": true,
+  "message": "Logged in successfully (dev mode)",
+  "data": {
+    "total": 1,
+    "user": {
+      "id": 5,
+      "created_at": "2025-07-03T06:55:15.738Z",
+      "updated_at": "2025-07-03T06:55:15.738Z",
+      "country_code": "92",
+      "phone": "3044493350",
+      "name": null,
+      "profile_photo": null,
+      "password": null,
+      "is_profile_completed": false
+    },
+    "toke": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NSwiY291bnRyeV9jb2RlIjoiOTIiLCJwaG9uZSI6IjMwNDQ0OTMzNTAiLCJpYXQiOjE3NTE4NzQyNzIsImV4cCI6MTc1MTg4NTA3Mn0.t0cDEiWS73jkrVJ_F97qE_wCRF-o28oQhW-DGyE49MA"
+  }
+}
+2025-07-07 12:44:32 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/verify_otp",
+  "params": {},
+  "query": {},
+  "body": {
+    "country_code": "92",
+    "phone": "3044493350",
+    "otp": "941496"
+  },
+  "statusCode": 200,
+  "duration": "37.68ms"
+}
+2025-07-07 12:49:54 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:39:12) - Connected to database
+2025-07-07 12:49:54 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:41:20) - 🚀 App is running at: http://localhost:3002
+2025-07-07 12:49:56 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:183:20) - {
+  "status": 200,
+  "success": true,
+  "message": "Logged in successfully (dev mode)",
+  "data": {
+    "total": 1,
+    "user": {
+      "id": 5,
+      "created_at": "2025-07-03T06:55:15.738Z",
+      "updated_at": "2025-07-03T06:55:15.738Z",
+      "country_code": "92",
+      "phone": "3044493350",
+      "name": null,
+      "profile_photo": null,
+      "password": null,
+      "is_profile_completed": false
+    },
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NSwiY291bnRyeV9jb2RlIjoiOTIiLCJwaG9uZSI6IjMwNDQ0OTMzNTAiLCJpYXQiOjE3NTE4NzQ1OTYsImV4cCI6MTc1MTg4NTM5Nn0.J8LjsVREpwvgShuDQ7PoZJHZrpRj3bqENFt_aowa1VE"
+  }
+}
+2025-07-07 12:49:56 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/verify_otp",
+  "params": {},
+  "query": {},
+  "body": {
+    "country_code": "92",
+    "phone": "3044493350",
+    "otp": "941496"
+  },
+  "statusCode": 200,
+  "duration": "12.08ms"
+}
+2025-07-07 12:50:33 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:183:20) - {
+  "status": 200,
+  "success": true,
+  "message": "Logged in successfully (dev mode)",
+  "data": {
+    "total": 1,
+    "user": {
+      "id": 5,
+      "created_at": "2025-07-03T06:55:15.738Z",
+      "updated_at": "2025-07-03T06:55:15.738Z",
+      "country_code": "92",
+      "phone": "3044493350",
+      "name": null,
+      "profile_photo": null,
+      "password": null,
+      "is_profile_completed": false
+    },
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NSwiY291bnRyeV9jb2RlIjoiOTIiLCJwaG9uZSI6IjMwNDQ0OTMzNTAiLCJpYXQiOjE3NTE4NzQ2MzMsImV4cCI6MTc1MTg4NTQzM30.DskUjFqREmq-o1-nnXSi7jhJ4PZsJpksaBNAEN0HvvA"
+  }
+}
+2025-07-07 12:50:33 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/verify_otp",
+  "params": {},
+  "query": {},
+  "body": {
+    "country_code": "92",
+    "phone": "3044493350",
+    "otp": "941496"
+  },
+  "statusCode": 200,
+  "duration": "4.23ms"
+}
+2025-07-07 12:50:45 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/update_profile",
+  "params": {},
+  "query": {},
+  "statusCode": 500,
+  "duration": "6.78ms"
+}
+2025-07-07 12:52:56 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:39:12) - Connected to database
+2025-07-07 12:52:56 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:41:20) - 🚀 App is running at: http://localhost:3002
+2025-07-07 12:53:10 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:39:12) - Connected to database
+2025-07-07 12:53:10 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:41:20) - 🚀 App is running at: http://localhost:3002
+2025-07-07 12:53:14 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\common\jwt\validate.js:19:16) - 'JWT Error:' error.message
+2025-07-07 12:53:15 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/update_profile",
+  "params": {},
+  "query": {},
+  "statusCode": 401,
+  "duration": "8.59ms"
+}
+2025-07-07 12:53:21 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:183:20) - {
+  "status": 200,
+  "success": true,
+  "message": "Logged in successfully (dev mode)",
+  "data": {
+    "total": 1,
+    "user": {
+      "id": 5,
+      "created_at": "2025-07-03T06:55:15.738Z",
+      "updated_at": "2025-07-03T06:55:15.738Z",
+      "country_code": "92",
+      "phone": "3044493350",
+      "name": null,
+      "profile_photo": null,
+      "password": null,
+      "is_profile_completed": false
+    },
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NSwiY291bnRyeV9jb2RlIjoiOTIiLCJwaG9uZSI6IjMwNDQ0OTMzNTAiLCJpYXQiOjE3NTE4NzQ4MDEsImV4cCI6MTc1MTg4NTYwMX0.R1Sf-PvkltTJUMY9RRoTuJ7eybMqblhVPKKfLBkKIys"
+  }
+}
+2025-07-07 12:53:21 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/verify_otp",
+  "params": {},
+  "query": {},
+  "body": {
+    "country_code": "92",
+    "phone": "3044493350",
+    "otp": "941496"
+  },
+  "statusCode": 200,
+  "duration": "9.51ms"
+}
+2025-07-07 12:53:25 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\common\jwt\validate.js:19:16) - 'JWT Error:' error.message
+2025-07-07 12:53:25 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/update_profile",
+  "params": {},
+  "query": {},
+  "statusCode": 401,
+  "duration": "2.21ms"
+}
+2025-07-07 12:54:38 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:39:12) - Connected to database
+2025-07-07 12:54:38 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:41:20) - 🚀 App is running at: http://localhost:3002
+2025-07-07 12:54:40 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\common\jwt\validate.js:19:16) - 'JWT Error:' Invalid token
+2025-07-07 12:54:40 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/update_profile",
+  "params": {},
+  "query": {},
+  "statusCode": 401,
+  "duration": "8.76ms"
+}
+2025-07-07 12:55:31 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\common\jwt\validate.js:19:16) - 'JWT Error:' Invalid token
+2025-07-07 12:55:31 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/update_profile",
+  "params": {},
+  "query": {},
+  "statusCode": 401,
+  "duration": "3.09ms"
+}
+2025-07-07 12:55:55 [error] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:278:16) - {
+  "status": 500,
+  "success": false,
+  "message": "Error in updating the profile",
+  "error": "syntax error at or near \")\""
+}
+2025-07-07 12:55:55 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/update_profile",
+  "params": {},
+  "query": {},
+  "statusCode": 500,
+  "duration": "43.28ms"
+}
+2025-07-07 12:57:22 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:39:12) - Connected to database
+2025-07-07 12:57:22 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:41:20) - 🚀 App is running at: http://localhost:3002
+2025-07-07 12:57:24 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:268:16) - {
+  "status": 200,
+  "success": true,
+  "message": "Profile Updated successfully",
+  "data": {
+    "user": {
+      "id": 5,
+      "created_at": "2025-07-03T06:55:15.738Z",
+      "updated_at": "2025-07-03T06:55:15.738Z",
+      "country_code": "92",
+      "phone": "3044493350",
+      "name": null,
+      "profile_photo": null,
+      "password": null,
+      "is_profile_completed": false
+    }
+  }
+}
+2025-07-07 12:57:24 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\controller\controller.js:74:16) - {
+  "status": 500,
+  "success": false,
+  "message": "Internal Server error",
+  "error": "Cannot read properties of undefined (reading 'status')"
+}
+2025-07-07 12:57:56 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:39:12) - Connected to database
+2025-07-07 12:57:56 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:41:20) - 🚀 App is running at: http://localhost:3002
+2025-07-07 12:57:59 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:268:16) - {
+  "status": 200,
+  "success": true,
+  "message": "Profile Updated successfully",
+  "data": {
+    "user": {
+      "id": 5,
+      "created_at": "2025-07-03T06:55:15.738Z",
+      "updated_at": "2025-07-03T06:55:15.738Z",
+      "country_code": "92",
+      "phone": "3044493350",
+      "name": null,
+      "profile_photo": null,
+      "password": null,
+      "is_profile_completed": false
+    }
+  }
+}
+2025-07-07 12:57:59 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/update_profile",
+  "params": {},
+  "query": {},
+  "statusCode": 200,
+  "duration": "17.78ms"
+}
+2025-07-07 13:03:09 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:39:12) - Connected to database
+2025-07-07 13:03:09 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:41:20) - 🚀 App is running at: http://localhost:3002
+2025-07-07 13:04:05 [error] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:287:16) - {
+  "status": 500,
+  "success": false,
+  "message": "Error in updating the profile",
+  "error": "syntax error at or near \"=\""
+}
+2025-07-07 13:04:05 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/update_profile",
+  "params": {},
+  "query": {},
+  "statusCode": 500,
+  "duration": "46.75ms"
+}
+2025-07-07 13:04:54 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:39:12) - Connected to database
+2025-07-07 13:04:54 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:41:20) - 🚀 App is running at: http://localhost:3002
+2025-07-07 13:04:56 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:268:16) - {
+  "status": 200,
+  "success": true,
+  "message": "Profile Updated successfully",
+  "data": {
+    "user": {
+      "id": 5,
+      "created_at": "2025-07-03T06:55:15.738Z",
+      "updated_at": "2025-07-03T06:55:15.738Z",
+      "country_code": "92",
+      "phone": "3044493350",
+      "name": null,
+      "profile_photo": null,
+      "password": null,
+      "is_profile_completed": false
+    },
+    "UpdatedData": {
+      "id": 5,
+      "created_at": "2025-07-03T06:55:15.738Z",
+      "updated_at": "2025-07-03T06:55:15.738Z",
+      "country_code": "92",
+      "phone": "3044493350",
+      "name": "Muhammad Kamran",
+      "profile_photo": null,
+      "password": null,
+      "is_profile_completed": false
+    }
+  }
+}
+2025-07-07 13:04:56 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/update_profile",
+  "params": {},
+  "query": {},
+  "statusCode": 200,
+  "duration": "17.76ms"
+}
+2025-07-07 13:05:43 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:39:12) - Connected to database
+2025-07-07 13:05:43 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:41:20) - 🚀 App is running at: http://localhost:3002
+2025-07-07 13:05:45 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:268:16) - {
+  "status": 200,
+  "success": true,
+  "message": "Profile Updated successfully",
+  "data": {
+    "user": {
+      "id": 5,
+      "created_at": "2025-07-03T06:55:15.738Z",
+      "updated_at": "2025-07-03T06:55:15.738Z",
+      "country_code": "92",
+      "phone": "3044493350",
+      "name": "Muhammad Kamran",
+      "profile_photo": null,
+      "password": null,
+      "is_profile_completed": false
+    },
+    "UpdatedData": {
+      "id": 5,
+      "created_at": "2025-07-03T06:55:15.738Z",
+      "updated_at": "2025-07-03T06:55:15.738Z",
+      "country_code": "92",
+      "phone": "3044493350",
+      "name": "Muhammad Kamran",
+      "profile_photo": null,
+      "password": null,
+      "is_profile_completed": true
+    }
+  }
+}
+2025-07-07 13:05:45 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/update_profile",
+  "params": {},
+  "query": {},
+  "statusCode": 200,
+  "duration": "45.26ms"
+}
+2025-07-07 13:06:37 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\signup\service\service.js:268:16) - {
+  "status": 200,
+  "success": true,
+  "message": "Profile Updated successfully",
+  "data": {
+    "user": {
+      "id": 5,
+      "created_at": "2025-07-03T06:55:15.738Z",
+      "updated_at": "2025-07-03T06:55:15.738Z",
+      "country_code": "92",
+      "phone": "3044493350",
+      "name": "Muhammad Kamran",
+      "profile_photo": null,
+      "password": null,
+      "is_profile_completed": true
+    },
+    "UpdatedData": {
+      "id": 5,
+      "created_at": "2025-07-03T06:55:15.738Z",
+      "updated_at": "2025-07-03T06:55:15.738Z",
+      "country_code": "92",
+      "phone": "3044493350",
+      "name": "Muhammad Kamran",
+      "profile_photo": "1751875597896_61645479.png",
+      "password": null,
+      "is_profile_completed": true
+    }
+  }
+}
+2025-07-07 13:06:37 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:20:16) - {
+  "method": "POST",
+  "url": "/update_profile",
+  "params": {},
+  "query": {},
+  "statusCode": 200,
+  "duration": "15.39ms"
+}
+2025-07-07 17:52:39 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:39:12) - Connected to database
+2025-07-07 17:52:39 [info] (C:\Users\Muhammad Kamran\visual Studio Code\node projects\NutraGaze\App\src\main.js:41:20) - 🚀 App is running at: http://localhost:3002
